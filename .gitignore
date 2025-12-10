@@ -1,0 +1,12 @@
+nano .gitignore
+```
+
+Paste:
+```
+.DS_Store
+.build/
+*.xcframework
+*.xcframework.zip
+.swiftpm/
+xcuserdata/
+DerivedData/
