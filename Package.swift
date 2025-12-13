@@ -16,7 +16,7 @@ let package = Package(
         .binaryTarget(
             name: "WebRTC",
             url: "https://github.com/swetakadam/WebRTC-AudioDelegate/releases/download/1.0.0/WebRTC.xcframework.zip",
-            checksum: "fb684aa56ae27702fe2c9dd0402bc928680a999b719c5bb9d1c68ad7f4c058f7"
+            checksum: "33dce09b96ecf6c1ebb1b19d483f144b94592f3f6df1aa1ec57c32b190139823"
         )
     ]
 )

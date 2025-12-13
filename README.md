@@ -16,7 +16,7 @@ Custom WebRTC iOS framework with audio delegate support for real-time transcript
 
 In Xcode:
 1. File → Add Package Dependencies
-2. Enter: `https://github.com/YOUR_GITHUB_USERNAME/WebRTC-AudioDelegate`
+2. Enter: `https://github.com/swetakadam/WebRTC-AudioDelegate`
 3. Select version and add to your project
 
 Or in `Package.swift`:
